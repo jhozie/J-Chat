@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289244336949",
+    "project_id": "jchat-messaging-app",
+    "storage_bucket": "jchat-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289244336949:android:4ae0291e967c447c39b27c",
+        "android_client_info": {
+          "package_name": "com.example.jchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV09pvhXDlor_wGU2IXc_2r5OSEQL8fc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
